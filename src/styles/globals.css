@@ -1,0 +1,8 @@
+@import "bootstrap/dist/css/bootstrap.css";
+
+.table {
+  --bs-table-bg: none !important;
+}
+.test {
+  background-color: brown;
+}
